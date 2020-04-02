@@ -1,0 +1,30 @@
+//https://desarrolloweb.com/articulos/polyfill-fetch.html
+//https://desarrolloweb.com/articulos/fetch-post-ajax-javascript.html
+//https://desarrolloweb.com/articulos/fetch-ajax-javascript.html
+//https://stackoverflow.com/questions/56227336/how-to-handle-response-json-and-text-using-fetch
+//https://developer.mozilla.org/es/docs/Web/API
+//https://developer.mozilla.org/es/docs/Web/API/XMLHttpRequest
+//https://developer.mozilla.org/es/docs/Web/API/Request/clone
+//https://github.com/github/fetch/blob/master/fetch.js
+//https://developer.mozilla.org/es/docs/Web/HTTP/Status
+
+//https://developer.mozilla.org/es/docs/Web/API/Fetch_API
+/*Ver también
+    fetch https://developer.mozilla.org/es/docs/Web/API/WindowOrWorkerGlobalScope/fetch
+    Headers https://developer.mozilla.org/es/docs/Web/API/Headers
+    Request https://developer.mozilla.org/es/docs/Web/API/Request
+    Response https://developer.mozilla.org/es/docs/Web/API/Response
+             https://developer.mozilla.org/en-US/docs/Web/API/Response/status
+    Body https://developer.mozilla.org/es/docs/Web/API/Body
+    respondWith https://developer.mozilla.org/es/docs/Web/API/FetchEvent/respondWith
+    Utilizando_Fetch https://developer.mozilla.org/es/docs/Web/API/Fetch_API/Utilizando_Fetch
+    AbortController https://developer.mozilla.org/es/docs/Web/API/AbortController
+    AbortSignal https://developer.mozilla.org/es/docs/Web/API/AbortSignal
+    WindowOrWorkerGlobalScope https://developer.mozilla.org/es/docs/Web/API/WindowOrWorkerGlobalScope
+    ServiceWorker API https://developer.mozilla.org/es/docs/Web/API/Service_Worker_API
+    HTTP access control (CORS) https://developer.mozilla.org/es/docs/Web/HTTP/Access_control_CORS
+    HTTP https://developer.mozilla.org/es/docs/Web/HTTP
+    Fetch polyfill https://github.com/github/fetch
+    Fetch basic concepts https://developer.mozilla.org/es/docs/Web/API/Fetch_API/Conceptos_basicos
+    Fetch API Examples https://davidwalsh.name/fetch
+*/
